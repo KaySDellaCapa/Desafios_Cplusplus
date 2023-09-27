@@ -5,7 +5,7 @@ Dada a função: f(x) = X2 - 3x + 5
 Crie um um algoritmo em C++ que tenha uma função que calcule o valor de f(a), em que a é um número real informado pelo úsuario
 
 * Desafio 02
-Crie um algoritmo em C++, em que o usuario informa as notas de três provas de um aluno e também a média de nota da turma. O algoritmo deve calcular a média desse aluno e informar se a nota está acima, abaixo ou está na média da turma
+Crie um algoritmo em C++, em que o usuario informa as notas de três provas de um aluno e também a média de nota da turma. O algoritmo deve calcular a média desse aluno e informar se a nota está acima, abaixo ou está na média da turma.
 
 * Desafio 03
   Crie um algoritmo em C++ que tenha uma função que calcula o fatorial de um número inteiro positivo, informado pelo usuario
