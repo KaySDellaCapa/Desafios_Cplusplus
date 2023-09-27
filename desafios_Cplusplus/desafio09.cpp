@@ -1,5 +1,4 @@
-/*
-  #include <iostream>
+#include <iostream>
 
 using namespace std;
 
@@ -17,4 +16,3 @@ int main() {
   *media = (*idade1 + *idade2) / 2;
   cout << "A média das idades é: " << *media << endl;
 }
-*/
